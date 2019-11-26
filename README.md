@@ -33,16 +33,40 @@ Introduction to Python basics
 
 | Linkedin | GitHub | Facebook | Twitter | Instagram | Tumblr | Website |
 |----------|----------|----------|----------|----------|----------|----------|
-| [![linkedin](https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/svgs/fi-social-linkedin.svg)](https://www.linkedin.com/in/iamaashishpatel) | [![github](https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/svgs/fi-social-github.svg)](https://github.com/a-patel) | [![facebook](https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/svgs/fi-social-facebook.svg)](https://www.facebook.com/aashish.mrcool) | [![twitter](https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/svgs/fi-social-twitter.svg)](https://twitter.com/aashish_mrcool) | [![instagram](https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/svgs/fi-social-instagram.svg)](https://www.instagram.com/iamaashishpatel/) | [![tumblr](https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/svgs/fi-social-tumblr.svg)](https://iamaashishpatel.tumblr.com/) | [![website](https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/svgs/fi-social-blogger.svg)](http://aashishpatel.co.nf/) |
+| [![linkedin](https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/svgs/fi-social-linkedin.svg)](https://www.linkedin.com/in/iamaashishpatel) | [![github](https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/svgs/fi-social-github.svg)](https://github.com/frulouis) | [![facebook](https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/svgs/fi-social-facebook.svg)](https://www.facebook.com/coachfrulouis) | [![twitter](https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/svgs/fi-social-twitter.svg)](https://twitter.com/coachfrulouis) | [![instagram](https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/svgs/fi-social-instagram.svg)](https://www.instagram.com/coachfrulouis/) | [![tumblr](https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/svgs/fi-social-tumblr.svg)](https://frulouis.tumblr.com/) | [![website](https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/svgs/fi-social-blogger.svg)](http://www.frulouis.com/) |
 | | | | | | |
+
+Thanks for viewing my YouTube Channel. This video has been indexed with Threelly AI: https://chrome.google.com/webstore/detail/ai-bookmarks-for-youtube/dfohlnjmjiipcppekkbhbabjbnikkibo
+
+
+Get the extension on Chrome browser to see the indexes and bookmarks to key points in the video. 
+
+
+--------------------------------------------------------
+I'M HERE TO HELP! FIND OUT BELOW.
+
+
+GET MY = Game Plan for Success In Data Analytics Book (paperback): https://www.amazon.com/dp/1791368069/ref=cm_sw_r_tw_dp_U_x_0v5lDbHQ353XC 
+
+
+GET MY FREE PRODUCTIVITY AI EXTENSION = www.threelly.com 
+
+
+Subscribe to the GAME PLAN Newsletter: www.frulouis.com 
+
+
+?? Sponsor me on PayPal:
+fru@threelly.com
 
 
 
 ## Donations :dollar:
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/iamaashishpatel)
-
-
+?? Sponsor me via crypto:
+BitCoin -  1GD3VDJevws36GCdJUAprYeSwbNFWMMNyV
+LiteCoin -  0x79c860E482B303d89dbeAA022199a1105c506a26
+BitCoin Cash -  1GD3VDJevws36GCdJUAprYeSwbNFWMMNyV
+Ethereum -  LPVZFyUpJWKKZpkF52pJKNT67xDqXGaxqM
 
 ## License :lock:
 
