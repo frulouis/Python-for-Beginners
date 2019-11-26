@@ -19,14 +19,14 @@ Introduction to Python basics
 ## Support :telephone:
 > Reach out to me at one of the following places!
 
-- Email :envelope: at <a href="mailto:toaashishpatel@gmail.com" target="_blank">`toaashishpatel@gmail.com`</a>
-- NuGet :package: at <a href="https://www.nuget.org/profiles/iamaashishpatel" target="_blank">`@iamaashishpatel`</a>
+- Email :envelope: at <a href="mailto:coach.frulouis@gmail.com " target="_blank">`coach.frulouis@gmail.com `</a>
+- GitHub :package: at <a href="https://github.com/frulouis/Python-for-Beginners" target="_blank">`@frulouis`</a>
 
 
 
 ## Authors :boy:
 
-* **Ashish Patel** - [A-Patel](https://github.com/a-patel)
+* **Ashish Patel** - [A-Patel](https://github.com/frulouis/)
 
 
 ##### Connect with me
