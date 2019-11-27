@@ -67,23 +67,14 @@ This is a comment 3.
 #    print("You are older than me!")
 
 #0.0.7: Python Indentation.
-my_age = 30
-your_age = 57
-if my_age > your_age: #block 1
-    print("I am older than you!")
-else: #block 2
-    print("You are older than me!")
+# my_age = 30
+# your_age = 57
+# if my_age > your_age: #block 1
+#    print("I am older than you!")
+# else: #block 2
+#    print("You are older than me!")
 
 #0.0.8: Executing python scripts in files.
 
-
-
-
-
-
-
-
-
-
-
-
+def new_line(nine_line):
+    print(new_line(' three_line', 3*3))

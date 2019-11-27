@@ -2,16 +2,27 @@
 Introduction to Python basics
 
 ## Topics
+* FULL Lecture: Install and Setup PyCharm IDE || Module #100 [Python Basics]
+* FULL Lecture: Github Setup and Integration with PyCharm IDE || Module #100 [Python Basics]
 
-* [Introduction](./Introduction.md)
-    * Installation, Hello World example, Python Interpreter, Python Standard Library
-* [Number and String data types](./Number_and_String_datatypes.md)
-    * Numbers, String, Constants, Built-in Operators
+* FULL Lecture: A Complete Introduction to Python For Absolute Beginners - Your First (Hello World) Program || Module #100 [Python Basics]
 
-    
+    * Lecture #0.0.0: Key programming concepts in python (formal lauguage, syntax, vocabulary, grammar, interpreters, e.t.c) || Module #100: Python Basics
+    * Lecture #0.0.0: Write your First 'Hello World' program in python! || Module #100: Python Basics
+    * Lecture #0.0.0: Change your Pycharm theme and zoom settings || Module #100: Python Basics
+    * Lecture #0.0.1: Comments and annotations in python || Module #100: Python Basics
+    * Lecture #0.0.2: Introducing Strings, Numbers and Variables in python || Module #100: Python Basics
+    * Lecture #0.0.3: More Strings, Numbers and setting Variables in python || Module #100: Python Basics
+    * Lecture #0.0.4: Strings and concatenation in python || Module #100: Python Basics
+    * Lecture #0.0.5: Booleans & Conditionals in python || Module #100: Python Basics
+    * Lecture #0.0.6: Conditionals and Boolean logic in python || Module #100: Python Basics
+    * Lecture #0.0.7: Python Formatting and Indentation in python || Module #100: Python Basics
+    * Lecture #0.0.8: Executing Python Scripts (.py) from Command line in python || Module #100: Python Basics
+* More Coming soon!
+
+
 #### Coming soon
-- Get Container/Bucket size in bytes
-- Get number of total items/files in Container/Bucket
+- Coming soon will all be added here.
 
 
 ---
@@ -37,9 +48,11 @@ Introduction to Python basics
 | | | | | | |
 
 Thanks for viewing my YouTube Channel. This video has been indexed with Threelly AI: https://chrome.google.com/webstore/detail/ai-bookmarks-for-youtube/dfohlnjmjiipcppekkbhbabjbnikkibo
+Get the extension on Chrome browser to see the indexes and bookmarks to key points in the video.
 
+My GitHub Link for this course: https://github.com/frulouis/Python-for-Beginners
 
-Get the extension on Chrome browser to see the indexes and bookmarks to key points in the video. 
+Subscribe to My Youtube Channel: https://www.youtube.com/channel/UCakdY-DuPRO9M0VVNmk9qgw?sub_confirmation=1
 
 
 --------------------------------------------------------
