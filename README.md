@@ -2,8 +2,8 @@
 Introduction to Python basics
 
 ## Topics
-* FULL Lecture: Install and Setup PyCharm IDE || Module #100 [Python Basics]
-* FULL Lecture: Github Setup and Integration with PyCharm IDE || Module #100 [Python Basics]
+* [FULL Lecture: Install and Setup PyCharm IDE || Module #100 [Python Basics]](https://www.youtube.com/watch?v=NOTekHaJN-Y)
+* [FULL Lecture: Github Setup and Integration with PyCharm IDE || Module #100 [Python Basics]](https://www.youtube.com/watch?v=uCGtdz1dDcs)
 
 * FULL Lecture: A Complete Introduction to Python For Absolute Beginners - Your First (Hello World) Program || Module #100 [Python Basics]
 
@@ -27,17 +27,16 @@ Introduction to Python basics
 
 ---
 
-## Support :telephone:
+## Keep in Touch:
 > Reach out to me at one of the following places!
-
 - Email :envelope: at <a href="mailto:coach.frulouis@gmail.com " target="_blank">`coach.frulouis@gmail.com `</a>
 - GitHub :package: at <a href="https://github.com/frulouis/Python-for-Beginners" target="_blank">`@frulouis`</a>
 
 
 
-## Authors :boy:
+## Social:
 
-* **Ashish Patel** - [A-Patel](https://github.com/frulouis/)
+* **Fru Louis** - [Frulouis](https://github.com/frulouis/)
 
 
 ##### Connect with me
