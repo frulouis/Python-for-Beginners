@@ -29,12 +29,9 @@ my_age = 30  # Even thou age is same variable name, it's perfectly fine in pytho
 _my_middleName125 = "Louis"  # This is perfectly fine in python. Starting with underscore. Having non leading digits, e.t.c.
 
 # >>> These are not acceptable. By convention, variable names must be on the right side.
-30 = my_age
-1
-my_name = "Fru"  # Variables cannot start with digits
-
-
-class = "Fru"  # python has a who list of reserved words that cannot be used in variable names.
+# 30 = my_age
+# 6my_name = "Fru"  # Variables cannot start with digits
+# class = "Fru"  # python has a who list of reserved words that cannot be used in variable names.
 
 # List of Reserved words in python:
 # False	class	finally	is	return
@@ -78,22 +75,22 @@ print(last)
 my_name = "Fru"
 
 
-def myname():
-  print("My name is " + my_name)
+def my_greetings():
+    print("My name is " + my_name)
 
 
-myname()
+my_greetings()
 
 # >>>
 my_name = "Fru"
 
 
-def myname():
-  my_name = "Louis"
-  print("My name is " + my_name)
+def my_greetings():
+    my_name = "Louis"
+    print("My name is " + my_name)
 
 
-myfunc()
+my_greetings()
 
 print("My name is " + my_name)
 
@@ -104,11 +101,11 @@ print("My name is " + my_name)
 my_name = "Fru"
 
 
-def myfunc():
-  global my_name
-  my_name = "Fru"
+def my_greetings():
+    global my_name
+    my_name = "Fru"
 
 
-myfunc()
+my_greetings()
 
 print("My name is " + my_name)

@@ -17,6 +17,7 @@
 # Exercise 1.3.6: Checking Strings
 # Exercise 1.3.7: String arrays and Slicing
 # Exercise 1.3.8: String placeholders
+# Exercise 1.3.9: Boolean Strings
 # ======================================================================================
 
 
@@ -117,11 +118,28 @@ my_first_name = "Fru"
 my_last_name = "Louis"
 my_age = "30"
 my_introduction = "My name first name is {} , my last name is {} and I am {} years old."
-print(my_introduction.format(my_first_name, my_last_name, my_age)
+print(my_introduction.format(my_first_name, my_last_name, my_first_name, my_age))
 
 # >>>
 my_first_name = "Fru"
 my_last_name = "Louis"
 my_age = "30"
 my_introduction = "My name last name is {1} , my first name is {0} and I am {2} years old."
-print(my_introduction.format(my_last_name, my_first_name, my_age))
+print(my_introduction.format(my_first_name, my_last_name, my_age))
+
+# **************************************************************************************
+# Exercise 1.3.9: Boolean Strings
+# **************************************************************************************
+
+# >>>
+my_name = "Fru Louis"
+
+print(my_name.isalnum())  # check if all char are numbers
+print(my_name.isalpha())  # check if all char in the string are alphabetic
+print(my_name.isdigit())  # test if string contains digits
+print(my_name.istitle())  # test if string contains title words
+print(my_name.isupper())  # test if string contains upper case
+print(my_name.islower())  # test if string contains lower case
+print(my_name.isspace())  # test if string contains spaces
+print(my_name.endswith('s'))  # test if string endswith a s
+print(my_name.startswith('H'))  # test if string startswith H

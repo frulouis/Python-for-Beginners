@@ -36,9 +36,9 @@ print(-3.124)  # Signed Values
 # **************************************************************************************
 
 # >>>
-x = 1  # int
-y = 2.8  # float
-z = 1j  # complex
+x = 5  # int
+y = 7.8  # float
+z = 3j  # complex
 print(type(x))
 print(type(y))
 print(type(z))
