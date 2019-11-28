@@ -5,19 +5,39 @@ Introduction to Python basics
 * [FULL Lecture: Install and Setup PyCharm IDE || Module #100 [Python Basics]](https://www.youtube.com/watch?v=NOTekHaJN-Y)
 * [FULL Lecture: Github Setup and Integration with PyCharm IDE || Module #100 [Python Basics]](https://www.youtube.com/watch?v=uCGtdz1dDcs)
 
-* FULL Lecture: A Complete Introduction to Python For Absolute Beginners - Your First (Hello World) Program || Module #100 [Python Basics]
+* Lec 100: A Complete Introduction to Python For Absolute Beginners - Your First (Hello World) Program || Module #100 [Python Basics]
 
-    * Lecture #0.0.0: Key programming concepts in python (formal lauguage, syntax, vocabulary, grammar, interpreters, e.t.c) || Module #100: Python Basics
-    * Lecture #0.0.0: Write your First 'Hello World' program in python! || Module #100: Python Basics
-    * Lecture #0.0.0: Change your Pycharm theme and zoom settings || Module #100: Python Basics
-    * Lecture #0.0.1: Comments and annotations in python || Module #100: Python Basics
-    * Lecture #0.0.2: Introducing Strings, Numbers and Variables in python || Module #100: Python Basics
-    * Lecture #0.0.3: More Strings, Numbers and setting Variables in python || Module #100: Python Basics
-    * Lecture #0.0.4: Strings and concatenation in python || Module #100: Python Basics
-    * Lecture #0.0.5: Booleans & Conditionals in python || Module #100: Python Basics
-    * Lecture #0.0.6: Conditionals and Boolean logic in python || Module #100: Python Basics
-    * Lecture #0.0.7: Python Formatting and Indentation in python || Module #100: Python Basics
-    * Lecture #0.0.8: Executing Python Scripts (.py) from Command line in python || Module #100: Python Basics
+    * Lec #0.0.0: Key programming concepts in python (formal lauguage, syntax, vocabulary, grammar, interpreters, e.t.c) || Module #100: Python Basics
+    * Lec #0.0.0: Write your First 'Hello World' program in python! || Module #100: Python Basics
+    * Lec #0.0.0: Change your Pycharm theme and zoom settings || Module #100: Python Basics
+    * Lec #0.0.1: Comments and annotations in python || Module #100: Python Basics
+    * Lec #0.0.2: Introducing Strings, Numbers and Variables in python || Module #100: Python Basics
+    * Lec #0.0.3: More Strings, Numbers and setting Variables in python || Module #100: Python Basics
+    * Lec #0.0.4: Strings and concatenation in python || Module #100: Python Basics
+    * Lec #0.0.5: Booleans & Conditionals in python || Module #100: Python Basics
+    * Lec #0.0.6: Conditionals and Boolean logic in python || Module #100: Python Basics
+    * Lec #0.0.7: Python Formatting and Indentation in python || Module #100: Python Basics
+    * Lec #0.0.8: Executing Python Scripts (.py) from Command line in python || Module #100: Python Basics
+
+* Lec 101: Variables in Python - A Complete Introduction || Module #100 [Python Basics]
+
+    * Lec #1.1.0: Setting and priting variables of different types. || Module #100: Python Basics
+    * Lec #1.1.1: Basic variable assignment. || Module #100: Python Basics
+    * Lec #1.1.2: Variable Scope - Inside and outside functions. || Module #100: Python Basics
+    * Lec #1.1.3: More variable Scope - Inside and outside functions. || Module #100: Python Basics
+
+
+* Lec 102: Numbers in Python (Int, Float, Complex) - A Complete Introduction || Module #100 [Python Basics]
+
+    * Lec #1.2.0: Basic numbers || Module #100: Python Basics
+    * Lec #1.2.1: Number types and how to check them: Int, Float, Complex || Module #100: Python Basics
+    * Lec #1.2.2: Numbers and Arithmetic operations || Module #100: Python Basics
+    * Lec #1.2.3: BODMAS - Order of operation || Module #100: Python Basics
+    * Lec #1.2.4: More math functions in python || Module #100: Python Basics
+    * Lec #1.2.5: Converting numbers from one type to another || Module #100: Python Basics
+    * Lec #1.2.6: Generating and Printing Random Numbers || Module #100: Python Basics
+
+
 * More Coming soon!
 
 
