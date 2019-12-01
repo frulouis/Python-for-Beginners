@@ -21,8 +21,6 @@
 
 a = [1, 3, 5, 7, 'Fru']
 
-a = b
+print("Fru" in a)  # returns True because a sequence with the value "Fru" is in the list
 
-print("Fru" in x)  # returns True because a sequence with the value "Fru" is in the list
-
-print("Louis" not in x)  # returns True because a sequence with the value "Louis" is not in the list
+print("Louis" not in a)  # returns True because a sequence with the value "Louis" is not in the list

@@ -43,7 +43,6 @@ print('num1 is', num1)
 print('num2 is', num2)
 print('num3 is', num3)
 
-
 # **************************************************************************************
 # Concept 3.0.2: #Strings
 # **************************************************************************************
@@ -77,7 +76,7 @@ print(countries)
 # Concept 3.0.5: #Tuples
 # ************************************************************************************** 
 fruits_tuple = ("apple", "banana", "cherry")
-fruits_list = list(sports_tuple)
+fruits_list = list(fruits_tuple)
 fruits_list.append('orange')
 print(fruits_list)
 print(fruits_tuple)
