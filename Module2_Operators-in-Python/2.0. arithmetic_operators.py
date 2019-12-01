@@ -4,7 +4,14 @@
 # @Index   : Access www.threelly.com for indexes of associated video on  YouTube. 
 # @File    : arithmetic_operators.py
 # @Software: PyCharm
-# @Comments:  
+# @Comments:
+
+#What are operators?
+#Operators are the constructs which
+# can manipulate the value of operands.
+#Consider the expression 4 + 5 = 9.
+# Here, 4 and 5 are called operands
+# and + is called operator.
 
 # ======================================================================================
 # Table Of Content

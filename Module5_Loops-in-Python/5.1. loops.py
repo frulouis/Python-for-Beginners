@@ -26,15 +26,13 @@ for prime in primes:
     print(prime)
 
 # >>>	
-language = [‘Python’, ‘Java’, ‘Ruby’]
+language = ["Python", "Java", "Ruby"]
 
 for lang in language:
-    print(“Current
-    language is: “, lang)
+    print("Current language is: ", lang)
 
     for lang in range(len(language)):
-        print(“Current
-        language is: “, language[lang])
+        print("Current language is: ", language[lang])
 
 
         # >>>

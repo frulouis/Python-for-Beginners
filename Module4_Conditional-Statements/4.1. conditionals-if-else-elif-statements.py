@@ -18,7 +18,6 @@
 # Concept 4.0.4: #"elif" condition
 # Concept 4.0.5: #conditional statements with minimal code
 # Concept 4.0.6: #Nested IF Statement
-# Concept 4.0.7: #Switch Statement
 # ======================================================================================
 
 
@@ -101,8 +100,3 @@ if country == "AU":
         print("Shipping Cost is  $100")
 else:
     print("FREE")
-
-# **************************************************************************************
-# Concept 4.0.7: #Switch Statement
-# **************************************************************************************		
-# TODO
