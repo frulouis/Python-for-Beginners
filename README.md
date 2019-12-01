@@ -5,19 +5,19 @@ Introduction to Python basics
 * [FULL Lecture: Install and Setup PyCharm IDE || Module #100 [Python Basics]](https://www.youtube.com/watch?v=NOTekHaJN-Y)
 * [FULL Lecture: Github Setup and Integration with PyCharm IDE || Module #100 [Python Basics]](https://www.youtube.com/watch?v=uCGtdz1dDcs)
 
-* M#0: A Complete Introduction to Python For Absolute Beginners - Your First (Hello World) Program || Module #100 [Python Basics]
+* [M#0: A Complete Introduction to Python For Absolute Beginners - Your First (Hello World) Program || Module #100 [Python Basics]](https//www.youtube.com/watch?v=VG6j_lLNSIQ&t=1697s)
 
-    * MLC#0.0.0: Key programming concepts in python (formal lauguage, syntax, vocabulary, grammar, interpreters, e.t.c) || Module #100: Python Basics
-    * MLC#0.0.0: Write your First 'Hello World' program in python! || Module #100: Python Basics
-    * MLC#0.0.0: Change your Pycharm theme and zoom settings || Module #100: Python Basics
-    * MLC#0.0.1: Comments and annotations in python || Module #100: Python Basics
-    * MLC#0.0.2: Introducing Strings, Numbers and Variables in python || Module #100: Python Basics
-    * MLC#0.0.3: More Strings, Numbers and setting Variables in python || Module #100: Python Basics
-    * MLC#0.0.4: Strings and concatenation in python || Module #100: Python Basics
-    * MLC#0.0.5: Booleans & Conditionals in python || Module #100: Python Basics
-    * MLC#0.0.6: Conditionals and Boolean logic in python || Module #100: Python Basics
-    * MLC#0.0.7: Python Formatting and Indentation in python || Module #100: Python Basics
-    * MLC#0.0.8: Executing Python Scripts (.py) from Command line in python || Module #100: Python Basics
+    * [MLC#0.0.0: Key programming concepts in python (formal lauguage, syntax, vocabulary, grammar, interpreters, e.t.c) || Module #100: Python Basics](https//www.youtube.com/watch?v=CJtZu3-4_JI&t=1s)
+    * [MLC#0.0.0: Write your First 'Hello World' program in python! || Module #100: Python Basics](https//www.youtube.com/watch?v=KUn8TTohXwA&t=132s)
+    * [MLC#0.0.0: Change your Pycharm theme and zoom settings || Module #100: Python Basics](https//www.youtube.com/watch?v=xBLLrzMUuuM&t=1s)
+    * [MLC#0.0.1: Comments and annotations in python || Module #100: Python Basics(]https//www.youtube.com/watch?v=JnkklgLfzvY&t=3s)
+    * [MLC#0.0.2: Introducing Strings, Numbers and Variables in python || Module #100: Python Basics](https//www.youtube.com/watch?v=lsXlSGbPkl4&t=2s)
+    * [MLC#0.0.3: More Strings, Numbers and setting Variables in python || Module #100: Python Basics](https//www.youtube.com/watch?v=OuBQhC-0QjU&t=694s)
+    * [MLC#0.0.4: Strings and concatenation in python || Module #100: Python Basics](https//www.youtube.com/watch?v=CJu7MT_l7cY&t=1s)
+    * [MLC#0.0.5: Booleans & Conditionals in python || Module #100: Python Basics](https//www.youtube.com/watch?v=vPmEXqyiym8&t=4s)
+    * [MLC#0.0.6: Conditionals and Boolean logic in python || Module #100: Python Basics](https//www.youtube.com/watch?v=FoFuN7jvzt8&t=11s)
+    * [MLC#0.0.7: Python Formatting and Indentation in python || Module #100: Python Basics](https//www.youtube.com/watch?v=r15cIdt8qz0&t=213s)
+    * [MLC#0.0.8: Executing Python Scripts (.py) from Command line in python || Module #100: Python Basics](https//www.youtube.com/watch?v=aeLECl8V-18&t=2s)
 
 * [ML#1.1: Variables in Python - A Complete Introduction || Module #100 [Python Basics]](https://www.youtube.com/watch?v=Hub7QdV6jW4)
 
@@ -85,7 +85,7 @@ Introduction to Python basics
 
 * [ML#3.1: Datatype Conversions in #Python (#tuples, #dictionaries, e.t.c)  -  A Complete Introduction] (https://www.youtube.com/watch?v=eoVWh-rI35s)
 
-* More Coming soon!
+* More Videos and Content coming soon!
 
 
 #### Coming soon
