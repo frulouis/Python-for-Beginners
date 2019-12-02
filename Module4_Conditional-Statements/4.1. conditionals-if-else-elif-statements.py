@@ -82,21 +82,20 @@ print(st)
 # **************************************************************************************
 # Concept 4.0.6: #Nested IF Statement
 # **************************************************************************************
-# >>>	
-total = 100
-# country = "US"
-country = "AU"
-if country == "US":
-    if total <= 50:
-        print("Shipping Cost is  $50")
-elif total <= 100:
-    print("Shipping Cost is $25")
-elif total <= 150:
-    print("Shipping Costs $5")
+# >>>
+gpa_total = 2.5
+student_name = "John"
+Enrolled = "False"
+
+if Enrolled == "True":
+    if student_name == "John":
+        if gpa_total >= 3.0:
+            print("CONGRATS John! You are ready to graduate")
+        elif gpa_total >= 1.0:
+            print("GPA in fail range. More courses needed. ")
+        else:
+            print("Sorry John! GPA too low for graduation.")
+    else:
+        print("HMMMMM :( Not John! Access not allowed.")
 else:
-    print("FREE")
-if country == "AU":
-    if total <= 50:
-        print("Shipping Cost is  $100")
-else:
-    print("FREE")
+    print("Hmmm : You are not currently enrolled. Talk to Admissions.")

@@ -9,6 +9,8 @@
 # ======================================================================================
 # Table Of Content
 # Concept 8.1.0: Defining a Class
+# Concept 8.1.1: Class Inheritance
+# Concept 8.1.2: Importing in Python
 # ======================================================================================
 
 
@@ -17,7 +19,6 @@
 
 # **************************************************************************************
 # Concept 8.1.0: Defining a Class
-# Concept 8.1.1: Class Inheritance
 # **************************************************************************************
 # >>>
 
@@ -80,3 +81,15 @@ c.childMethod()  # child calls its method
 c.parentMethod()  # calls parent's method
 c.setAttr(200)  # again call parent's method
 c.getAttr()  # again call parent's method
+
+# **************************************************************************************
+# Concept 8.1.2: Importing in Python
+# **************************************************************************************
+# >>>
+# External libraries are used with the import [libname] keyword. You can also use from [libname] import [funcname] for individual functions. Here is an example:
+
+import random
+
+randomint = random.randint(1, 100)
+>> > print(randomint)
+64

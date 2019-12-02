@@ -28,37 +28,37 @@
 # **************************************************************************************
 # >>>
 # for Loop
-fruits = ["apple", "orange", "grapes"]
-for fruit in fruits:
-    print(fruit)
+my_names = ["coach", "fru", "louis", "nde"]
+for name in my_names:
+    print(name)
 
 # **************************************************************************************
 # Concept 7.1.1: While loop
 # **************************************************************************************
 
 # >>>
-a = 5
-while a > 1:
-    print(a)
-    a -= 1
+age = 30
+while age > 1:
+    print(age)
+    age -= 1
 
-    # >>>
+# >>>
 while True:
-    print('Please type your name.')
-name = input()
-if name == 'your name':
-    break
-print('Thank you!')
+    name = input('Please type your name.')
+    if name == 'Fru':
+        print("Fru is not allowed.")
+        break
+print('Thank you! Your name is: ' + name)
 
 # **************************************************************************************
 # Concept 7.1.2: If, Else, Elif
 # **************************************************************************************
 # >>>
 
-a = 10
-if a == 0:
+age = 30
+if age == 0:
     print("Zero")
-elif a > 0:
+elif age > 0:
     print("Positive number")
 else:
     print("Negative number")
@@ -68,24 +68,25 @@ else:
 # **************************************************************************************
 # >>>
 
-a = 10
-while a > 1:
-    print(a)
-    if a == 5:
+age = 30
+while age > 1:
+    print(age)
+    if age == 21:
+        print("Legal age starts here.")
         break
-    a -= 1
+    age -= 1
 
 # **************************************************************************************
 # Concept 7.1.4: Continue Statement
 # **************************************************************************************
 # >>>
 
-a = 5
-while a > 1:
-    if a == 3:
+age = 30
+while 30 > 1:
+    if age == 21:
         continue
-    print(a)
-    a -= 1
+    print(age)
+    age -= 1
 
 # **************************************************************************************
 # Concept 7.1.5: Try Statement
@@ -93,23 +94,22 @@ while a > 1:
 # >>>
 
 try:
-    x = int(input("Please input some numbers: "))
-    print(x)
+    age = int(input("Please input your age: "))
+    print(age)
 except ValueError as ve:
-    print("Please input numbers. NUMBERS not letters")
+    print("Please input your age in NUMBERS not letters!")
 
 # **************************************************************************************
 # Concept 7.1.6: Pass Statement
 # **************************************************************************************
 # >>>
 
-for letter in 'Python':
-    if letter == 'h':
-        pass
-        print
-        'This is pass block'
-    print
-    'Current Letter :', letter
+print('Printing my name and url horizontally \n')
 
-print
-"Good bye!"
+for curr_value in 'Coach Fru Louis on YouTube (www.threelly.com)':
+    if curr_value == 'F':
+        pass  # The pass statement in Python is used when a statement is required syntactically but you do not want any command or code to execute.
+        print('My actual name begins here:')
+    print(curr_value)
+
+print("\nThere you go! My name and url in horizontal.")
