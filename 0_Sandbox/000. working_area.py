@@ -1,9 +1,18 @@
-print('Printing my name and url horizontally \n')
+# **************************************************************************************
+# Concept 4.0.6: #Nested IF Statement
+# **************************************************************************************
+# >>>
+gpa_total = 3.5
+student_name = "John"
+Enrolled = "True"
 
-for curr_value in 'Coach Fru Louis on YouTube (www.threelly.com)':
-    if curr_value == 'F':
-        # pass
-        print('My actual name begins here:')
-    print(curr_value)
-
-print("\nThere you go! My name and url in horizontal.")
+if Enrolled == "True":
+    if student_name == "John":
+        if gpa_total >= 3.0:
+            print("Ready for Graduation")
+        else:
+            print("Not Ready for graduation")
+    else:
+        print("Not John")
+else:
+    print("Not enrolled.")

@@ -10,7 +10,7 @@ Introduction to Python basics
     * [MLC#0.0.0: Key programming concepts in python (formal lauguage, syntax, vocabulary, grammar, interpreters, e.t.c) || Module #100: Python Basics](https//www.youtube.com/watch?v=CJtZu3-4_JI&t=1s)
     * [MLC#0.0.0: Write your First 'Hello World' program in python! || Module #100: Python Basics](https//www.youtube.com/watch?v=KUn8TTohXwA&t=132s)
     * [MLC#0.0.0: Change your Pycharm theme and zoom settings || Module #100: Python Basics](https//www.youtube.com/watch?v=xBLLrzMUuuM&t=1s)
-    * [MLC#0.0.1: Comments and annotations in python || Module #100: Python Basics(]https//www.youtube.com/watch?v=JnkklgLfzvY&t=3s)
+    * [MLC#0.0.1: Comments and annotations in python || Module #100: Python Basics](https//www.youtube.com/watch?v=JnkklgLfzvY&t=3s)
     * [MLC#0.0.2: Introducing Strings, Numbers and Variables in python || Module #100: Python Basics](https//www.youtube.com/watch?v=lsXlSGbPkl4&t=2s)
     * [MLC#0.0.3: More Strings, Numbers and setting Variables in python || Module #100: Python Basics](https//www.youtube.com/watch?v=OuBQhC-0QjU&t=694s)
     * [MLC#0.0.4: Strings and concatenation in python || Module #100: Python Basics](https//www.youtube.com/watch?v=CJu7MT_l7cY&t=1s)
@@ -50,18 +50,18 @@ Introduction to Python basics
     * [MLC#1.3.8: String placeholders](https://www.youtube.com/watch?v=iR_6KrUJ2QA)
     * [MLC#1.3.9: Boolean Strings](https://www.youtube.com/watch?v=dIhjbGfWXKA)
 
-* ML#1.4: Casting Datatypes - A Complete Introduction || Module #100 [Python Basics] ](https://www.youtube.com/watch?v=HNps8xyVrqk)
+* [ML#1.4: Casting Datatypes - A Complete Introduction || Module #100 Python Basics](https://www.youtube.com/watch?v=HNps8xyVrqk)
     * [MLC#1.4.0: #Experiecing data type mismatch](https://www.youtube.com/watch?v=swvrEw6kL1Y)
     * [MLC#1.4.1: #Casting to Int](https://www.youtube.com/watch?v=_p_OkDfXVrU)
     * [MLC#1.4.2: #Casting to Float](https://www.youtube.com/watch?v=SJVzj8DYFUo)
     * [MLC#1.4.3: #Casting to String](https://www.youtube.com/watch?v=09GulWUM9_E)
 
-* ML#1.5: Basic User Inputs for Python - A Complete Introduction || Module #100 [Python Basics]](https://www.youtube.com/watch?v=CeSTRW-Dj6g)
+* [ML#1.5: Basic User Inputs for Python - A Complete Introduction || Module #100 Python Basics](https://www.youtube.com/watch?v=CeSTRW-Dj6g)
     * [MLC#1.5.0: #Basic user inputs. Name](https://www.youtube.com/watch?v=UoEPoFYx3jY)
     * [MLC#1.5.1: #Basic user inputs. Name and age](https://www.youtube.com/watch?v=c1xaUMr8EvM)
     * [MLC#1.5.2: #Build a basic calculator. Takes two numbers and add them on the screen.](https://www.youtube.com/watch?v=ES0FhDNUrmE)
 
-* M#2: Operators in #Python +, /, *, -  A Complete Introduction || #Python #Programming Basics](https://www.youtube.com/watch?v=Bi-Tczp1ABE)
+* [M#2: Operators in #Python +, /, *, -  A Complete Introduction || #Python #Programming Basics](https://www.youtube.com/watch?v=Bi-Tczp1ABE)
 
     * [MLC#2.0.0: Arithmetic Operator in Python || #Python #Programming Basics](https://www.youtube.com/watch?v=nh-YsTLasAM)
     * [MLC#2.0.1: Assignment Operator in Python|| #Python #Programming Basics](https://www.youtube.com/watch?v=rgWyRKvcvRM)
@@ -70,7 +70,7 @@ Introduction to Python basics
     * [MLC#2.0.4: Identity Operator in Python || #Python #Programming Basics](https://www.youtube.com/watch?v=F7ENNpYk2oA)
     * [MLC#2.0.5: Membership Operator in Python || #Python #Programming Basics](https://www.youtube.com/watch?v=CuJavZM6BhI)
 
-* M#3.0: Datatypes (#numbers, #strings, #floats, #tuples, #dictionaries, e.t.c) in #Python -  A Complete Introduction
+* [M#3.0: Datatypes (#numbers, #strings, #floats, #tuples, #dictionaries, e.t.c) in #Python -  A Complete Introduction](https://www.youtube.com/watch?v=itq_3ncCeNw&t)
 
     * [MLC#3.0.1: #Numbers Datatype in Python || #Python #Programming Basics](https://www.youtube.com/watch?v=rNmKMjciANQ)
     * [MLC#3.0.2: #Strings Datatype in Python || #Python #Programming Basics](https://www.youtube.com/watch?v=izCpbhdt4-4)
@@ -83,7 +83,19 @@ Introduction to Python basics
     * [MLC#3.0.9: #Bytearray Datatype in Python || #Python #Programming Basics](https://www.youtube.com/watch?v=56gBPYRSM9k)
     * [MLC#3.0.10: #Memoryview Datatype in Python || #Python #Programming Basics](https://www.youtube.com/watch?v=wYd9vA9zm-M)
 
-* [ML#3.1: Datatype Conversions in #Python (#tuples, #dictionaries, e.t.c)  -  A Complete Introduction] (https://www.youtube.com/watch?v=eoVWh-rI35s)
+* [ML#3.1: Datatype Conversions in #Python #tuples, #dictionaries, e.t.c  -  A Complete Introduction](https://www.youtube.com/watch?v=eoVWh-rI35s)
+
+
+* [MLC#4: #Conditionals #If, Else ,Elif in Statements in Python || #Python #Programming Basics](https://www.youtube.com/watch?v=Z_i-ESBZQ64&t)
+    * [MLC#4.0.1: #If Statements in Python || #Conditionals || #Python #Programming Basics](https://youtu.be/nv5nhGbG8Tg)
+    * [MLC#4.0.2: #Else Statements  in Python || #Conditionals || #Python #Programming Basics](https://youtu.be/AZPwNwJfVc4)
+    * [MLC#4.0.3: #Broken Conditionals in Python || #Conditionals || #Python #Programming Basics](https://youtu.be/MvJEj0rz0VI)
+    * [MLC#4.0.4: #Elif Statements in Python ||#Conditionals || #Python #Programming Basics](https://youtu.be/MvJEj0rz0VI)
+    * [MLC#4.0.5: #Minimal Conditionals in Python || #Conditionals || #Python #Programming Basics](https://youtu.be/znS7cIAsTVs)
+    * [MLC#4.0.6: #Nested Conditionals in Python || #Conditionals || #Python #Programming Basics](https://youtu.be/3VrXV91ajVM)
+
+
+
 
 * More Videos and Content coming soon!
 
