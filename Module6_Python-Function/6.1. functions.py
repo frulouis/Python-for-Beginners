@@ -30,12 +30,15 @@
 # >>>
 
 # A function is a piece of code written to carry out a specified task.
-# A method refers to a function which is part of a class. You access it with an instance or object of the class. A function doesn’t have this restriction: it just refers to a standalone function.
+# A method refers to a function which is part of a class. You access it with an instance or object of the class.
+# A function doesn’t have this restriction: it just refers to a standalone function.
 
 # Define a function `plus()`
 def plus(a, b):
     return a + b
 
+
+plus(2, 5)
 
 # Create a `Summation` class
 class Summation(object):
@@ -44,7 +47,6 @@ class Summation(object):
         return self.contents
 
     # Instantiate `Summation` class to call `sum()`
-
 
 sumInstance = Summation()
 sumInstance.sum(1, 2)
@@ -68,11 +70,9 @@ hello()
 # >>>
 # Function definition is here
 def printme(str):
-    "This prints a passed string into this function"
-    print
-    str
+    # "This prints a passed string into this function"
+    print(str)
     return
-
 
 # Now you can call printme function
 printme("I'm first call to user defined function!")
@@ -101,13 +101,11 @@ printme("Again second call to the same function")
 def plus(a, b=2):
     return a + b
 
-
 # Call `plus()` with only `a` parameter
 plus(a=1)
 
 # Call `plus()` with `a` and `b` parameters
 plus(a=1, b=3)
-
 
 # **************************************************************************************
 # Concept 6.1.4: Required Arguments
@@ -118,9 +116,7 @@ plus(a=1, b=3)
 def plus(a, b):
     return a + b
 
-
 plus(2, 3)
-
 
 # **************************************************************************************
 # Concept 6.1.5: Keyword Arguments  
@@ -161,8 +157,7 @@ plus(1, 4, 5)
 # >>>
 
 # Global variable `init`
-init = 1
-
+total = 1
 
 # Define `plus()` function to accept a variable number of arguments
 def plus(*args):
@@ -174,10 +169,10 @@ def plus(*args):
 
 
 # Access the global variable
-print("this is the initialized value " + str(init))
+print("this is the total value " + str(total))
 
 # (Try to) access the local variable
-print("this is the sum " + str(total))
+print("this is the sum " + str(2, 5, 3))
 
 
 # **************************************************************************************
@@ -187,18 +182,16 @@ print("this is the sum " + str(total))
 
 # Function definition is here
 def changeme(mylist):
-    "This changes a passed list into this function"
+    #"This changes a passed list into this function"
     mylist.append([1, 2, 3, 4]);
-    print
-    "Values inside the function: ", mylist
+    print("Values inside the function: ", mylist)
     return
 
 
 # Now you can call changeme function
 mylist = [10, 20, 30];
 changeme(mylist);
-print
-"Values outside the function: ", mylist
+print("Values outside the function: ", mylist)
 
 
 # **************************************************************************************
@@ -207,18 +200,19 @@ print
 # >>>
 
 # Function definition is here
-def sum(arg1, arg2):
+total = 0
+
+
+def sum(x, y):
     # Add both the parameters and return them."
-    total = arg1 + arg2
-    print
-    "Inside the function : ", total
+    total = x + y
+    print("Inside the function : ", total)
     return total;
 
 
 # Now you can call sum function
 total = sum(10, 20);
-print
-"Outside the function : ", total
+print("Outside the function : ", total)
 
 # **************************************************************************************
 # Concept 6.1.10: Anonymous / Lambda Functions in Python
@@ -236,7 +230,6 @@ sum = lambda x, y: x + y;
 
 # Call the `sum()` anonymous function
 sum(4, 5)
-
 
 # "Translate" to a UDF
 def sum(x, y):
@@ -267,7 +260,7 @@ print(reduced_list)
 # **************************************************************************************
 # >>>
 
-def myfunction:
+def myfunction():
     pass
 
 
@@ -287,5 +280,5 @@ def tri_recursion(k):
     return result
 
 
-print("\n\nRecursion Example Results")
+print("Recursion Example Results")
 tri_recursion(6)

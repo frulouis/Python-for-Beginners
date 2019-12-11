@@ -1,18 +1,20 @@
-# **************************************************************************************
-# Concept 4.0.6: #Nested IF Statement
-# **************************************************************************************
-# >>>
-gpa_total = 3.5
-student_name = "John"
-Enrolled = "True"
+# ======================================================================================
+# Concept 9.0.6: Raising an Exceptions (Working with Files Example)
+# ======================================================================================
+# >>>>>>
 
-if Enrolled == "True":
-    if student_name == "John":
-        if gpa_total >= 3.0:
-            print("Ready for Graduation")
-        else:
-            print("Not Ready for graduation")
-    else:
-        print("Not John")
+
+def check_age(user_age):
+    if user_age < 21:
+        raise Exception("UnderAge")  # Raise the exception.
+
+
+age = input("Please enter your age: ")
+age = int(age)
+
+try:
+    check_age(age)
+except Exception:
+    print("Verify ID! This person is underage.")
 else:
-    print("Not enrolled.")
+    print("Ready to go! This person is legal age.")

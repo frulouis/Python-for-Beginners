@@ -18,7 +18,7 @@
 # 3. Exception Handling (Continue, Try-Except, Pass, Break)
 # Concept 7.1.3: Break Statement
 # Concept 7.1.4: Continue Statement
-# Concept 7.1.5: Try Statement
+# Concept 7.1.5: Try-Except Statement
 # Concept 7.1.6: Pass Statement
 # ======================================================================================
 

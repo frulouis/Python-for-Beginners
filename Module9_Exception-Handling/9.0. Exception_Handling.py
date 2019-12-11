@@ -83,9 +83,9 @@ try:
         "r+")  # Open file Reading
     print(customers.read())
 except IOError:
-    print("Error: can\'t find file or read data. Please try again")
+    print("Error: can not find file or read data. Please try again")
 else:
-    print("\n \nCONFIRMATION: The file was read successfully")
+    print("\n CONFIRMATION: The file was read successfully")
 
 # ======================================================================================
 # Concept 9.0.3: try...finally  (Working with Files Example) 
