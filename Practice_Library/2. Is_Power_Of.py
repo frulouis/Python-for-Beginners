@@ -1,4 +1,4 @@
-# a, b : Check if a is a power of b.
+# Write a program, where given two numbers a and b, the program will check if a is a power of b. e.g.
 # 25, 5 : TRUE
 # 10, 2 : FALSE
 

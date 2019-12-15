@@ -1,4 +1,9 @@
-# This simple program Converst money from one currency to another.
+"""
+This simple program Converst money from one currency to another. (USD to XAF and USD to NGN)
+Hint: In case of input data being supplied to the question, it should be assumed to be a console input.
+Bonus: Expand your program to work and support exchange between any other currency, in the world. 
+
+"""
 
 
 def dollar_to_xaf():
